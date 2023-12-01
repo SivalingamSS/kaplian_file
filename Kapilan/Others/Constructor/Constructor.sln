@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructor", "Constructor.csproj", "{CF37BDCA-5F3A-461D-A3A0-E44ECE1D048D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cons", "..\Cons\Cons.csproj", "{CC5B0663-F26B-4BED-9555-669467E527E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF37BDCA-5F3A-461D-A3A0-E44ECE1D048D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF37BDCA-5F3A-461D-A3A0-E44ECE1D048D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF37BDCA-5F3A-461D-A3A0-E44ECE1D048D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF37BDCA-5F3A-461D-A3A0-E44ECE1D048D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5B0663-F26B-4BED-9555-669467E527E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5B0663-F26B-4BED-9555-669467E527E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5B0663-F26B-4BED-9555-669467E527E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5B0663-F26B-4BED-9555-669467E527E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF0E30E4-B904-4934-A107-9689EC91662A}
+	EndGlobalSection
+EndGlobal

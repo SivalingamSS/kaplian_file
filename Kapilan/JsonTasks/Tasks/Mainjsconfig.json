@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "Naveen",
+    "Age": 19,
+    "Department": "Tamil",
+    "City": "Coimbatore",
+    "School": "Sri Vidhya Mandir",
+    "Location": "TamilNadu"
+  },
+  {
+    "Name": "Sridhar",
+    "Age": 20,
+    "Department": "English",
+    "City": "Rasipuram",
+    "School": "Vetri Vikas",
+    "Location": "Kerala"
+  },
+  {
+    "Name": "Sharanthevan",
+    "Age": 21,
+    "Department": "Maths",
+    "City": "Salem",
+    "School": "Sri Vinayaga",
+    "Location": "India"
+  },
+  {
+    "Name": "Dinesh",
+    "Age": 22,
+    "Department": "Maths",
+    "City": "Gurusamipalayam",
+    "School": "Sri Kumaraguru",
+    "Location": "Karnataka"
+  },
+  {
+    "Name": "Prasanth",
+    "Age": 22,
+    "Department": "Physics",
+    "City": "Namakkal",
+    "School": "Green Park",
+    "Location": "Telegana"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "FirstName": "Kabilan",
+    "LastName": "s",
+    "Age": 21,
+    "Address": "Vaiyappamalai",
+    "City": "Namakkal",
+    "State": "Tamilnadu"
+
+  },
+  {
+    "EmployeeID": "Kabilan",
+    "EmployeeName": "s",
+    "EmployeeAge": 21,
+    "EmployeeAddress": "Vaiyappamalai",
+    "EmployeeCity": "Namakkal"
+  }
+]

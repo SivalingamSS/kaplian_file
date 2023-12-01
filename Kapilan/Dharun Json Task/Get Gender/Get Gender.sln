@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get Gender", "Get Gender.csproj", "{7C6F383B-E32F-439E-B98C-CD6B440E5AC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C6F383B-E32F-439E-B98C-CD6B440E5AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6F383B-E32F-439E-B98C-CD6B440E5AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6F383B-E32F-439E-B98C-CD6B440E5AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6F383B-E32F-439E-B98C-CD6B440E5AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C60636A-5FF6-4980-998E-4A66D986D1FA}
+	EndGlobalSection
+EndGlobal
